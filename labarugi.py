@@ -1,0 +1,1 @@
+print("Ini laba rugi")
