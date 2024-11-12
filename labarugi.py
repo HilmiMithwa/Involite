@@ -1,1 +1,1 @@
-print("Ini laba rugi")
+print("Ini laba rugi yang didapatkan")
